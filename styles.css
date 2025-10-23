@@ -112,6 +112,10 @@ main ol h4{
 font-weight: bold;
 }
 
+main ol p{
+    text-align: left;
+}
+
 main ol li:hover{
     transform: scale(1.02);
     box-shadow: 1px 1px 10px rgb(125, 224, 125); 
@@ -141,4 +145,5 @@ footer{
     padding: 20px;
     height: 50px;
     color: rgb(53, 52, 52);
+
 }
