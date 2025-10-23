@@ -114,6 +114,7 @@ font-weight: bold;
 
 main ol p{
     text-align: left;
+    margin-right: 10px;
 }
 
 main ol li:hover{
@@ -147,3 +148,4 @@ footer{
     color: rgb(53, 52, 52);
 
 }
+
